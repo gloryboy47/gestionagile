@@ -1,0 +1,21 @@
+h5{
+    color: blue;
+    font-weight: 800;
+}
+h1{
+    color: brown;
+    image-rendering: crisp-edges;
+}
+h2{
+    color: rgb(160, 127, 95);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight: 900;
+}
+h3{
+    color: darkgreen;
+}
+samp{
+    color: rgb(255, 0, 43);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
